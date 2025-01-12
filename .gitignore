@@ -1,0 +1,4 @@
+env/
+_results/
+__pycache__/
+.mypy_cache/
